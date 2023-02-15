@@ -142,7 +142,7 @@ function generateHTML() {
     }
     console.log("Your HTML has been created");
   });
-  open("Team.html");
+  open("team.html");
 }
 
 initialize().then((answers) => {

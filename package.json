@@ -1,7 +1,28 @@
 {
+  "name": "team-profile-",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatemehNiaz/Team-Profile-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatemehNiaz/Team-Profile-/issues"
+  },
+  "homepage": "https://github.com/FatemehNiaz/Team-Profile-#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
     "inquirer": "^8.2.4",
-    "open": "^8.4.0"
+    "jest": "^29.4.3",
+    "open": "^8.4.1"
   }
 }
