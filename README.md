@@ -44,10 +44,10 @@ The following image shows a mock-up of the generated HTML’s appearance and fun
 
 ![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/Team%20Profile.png)
 
-The styling in the image is just an example, so feel free to add your own.
-Link to the same walk through video on YouTube[Wlak through video google drive](https://youtu.be/DyZ9hra8ROQ)
 
-Link to the walk through video [Wlak through video google drive](https://drive.google.com/file/d/1cXLEheyW2b-E2eAYqFmqv16PQyeRrboI/view) 
+Link to the same walk through video on YouTube[Walk through video google drive](https://youtu.be/DyZ9hra8ROQ)
+
+Link to the walk through video [Walk through video google drive](https://drive.google.com/file/d/1cXLEheyW2b-E2eAYqFmqv16PQyeRrboI/view) 
 
 
 
