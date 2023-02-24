@@ -42,7 +42,11 @@ THEN I exit the application, I select Done, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/Team%20Profile.png)
+![picture of commands and inputs in the terminal](./Assets/Team%20Profile.png)
+
+
+![HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info.](./Assets/Commands-inputs-test.png)
+
 
 Link to walk through video [Walk through video link, Google drive, better quality](https://drive.google.com/file/d/1Dx_2SDYUCFA5QC_jVO_vKWV5rppFRc_e/view) 
 
